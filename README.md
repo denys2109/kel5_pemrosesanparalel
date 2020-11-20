@@ -1,6 +1,5 @@
-Kelompok 5 Pemrosesan Paralel\n
-Repository untuk Tugas Progress Pemrosesan Paralel kelas Sistem Komputer Reguler 5A\n
-Nama Kelompok :
+Repository Kelompok 5 Mata Kuliah Pemrosesan Paralel Sistem Komputer Reguler 5A
+
 1. Yusdiansya Putra (09011381823078)
 2. Deny Sulistiyo (09011281823030)
 3. Ari Arnaldo (09011181823006)
